@@ -1,0 +1,1 @@
+this project is AI-Driven Predictive Maintenance for IT Infrastructure. It focuses on preventing server crashes and optimizing data center performance using metrics like CPU load, storage utilization, and temperature.<img width="1020" alt="Screenshot 2025-01-27 at 3 40 53 PM" src="https://github.com/user-attachments/assets/f0dee2f1-084f-48d9-97ad-346b0f55e1ba" />
